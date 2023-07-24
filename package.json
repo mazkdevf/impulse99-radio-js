@@ -1,0 +1,21 @@
+{
+  "name": "impulse99-radio-js",
+  "version": "1.0.1",
+  "description": "Created for Impulse99 Radio, a radio station for the FiveM Server.",
+  "main": "impulseradio.js",
+  "keywords": [
+    "fivem",
+    "impulse99",
+    "radio",
+    "impulse99radio"
+  ],
+  "author": "mazkdevf",
+  "repository": {
+    "url": "https://github.com/mazkdevf/impulse99-radio-js",
+    "type": "git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.12"
+  }
+}
